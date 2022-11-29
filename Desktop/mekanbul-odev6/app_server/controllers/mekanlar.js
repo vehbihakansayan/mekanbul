@@ -56,21 +56,21 @@ const mekanBilgisi = function (req, res) {
       ],
       "imkanlar":["kahve","çay","kek"],
       "koordinatlar":{
-        "enlem":"37.78",
-        "boylam":"30.56"
+        "enlem":"37.7",
+        "boylam":"30.5"
       },
       "yorumlar":[
         {
-          "yorumYapan":"Veli Daşcı",
+          "yorumYapan":"Bilge Güngör",
           "puan":"3",
-          "tarih":"12 Nisan",
-          "yorumMetni":"Fevk aladenin fevkinde"
+          "tarih":"22 Mayıs",
+          "yorumMetni":" Çok beğendim"
         },
         {
-          "yorumYapan":"Nalan Sezen",
+          "yorumYapan":"Osman",
           "puan":"3",
-          "tarih":"17 Ocak",
-          "yorumMetni":"Güzel"
+          "tarih":"19 Ocak",
+          "yorumMetni":" Çok beğendim"
         }
         
       ]
